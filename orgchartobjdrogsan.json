@@ -1,0 +1,784 @@
+[
+    {
+        "id": "50006455",
+        "parent": "#",
+        "unit": "Genel Müdürlük",
+        "pernr": "10510046",
+        "fullname": "ERSAN KÜÇÜK",
+        "title": "Genel Müdür",
+        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E4F6FD099354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUmpS%2B9GMPSsqGnseVhLblzS7T3tgwCQYHKoZIzjgEAwQvMC0CFDn1JJ9aGpMqw07P9d1KAl9nARvxAhUAsUYiBKB3UsTQU5dzpWJyFvGAI%2Fw%3D",
+        "children": [
+            {
+                "id": "50006457",
+                "parent": "50006455",
+                "unit": "İnsan Kaynakları ve Bilgi Teknolojileri",
+                "pernr": "10110220",
+                "fullname": "NEVZAT TOLGA USLU",
+                "title": "İnsan Kaynak. ve Bilgi Tekno. Direktörü",
+                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE08DA92FFB0B3F9372&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUBDM6A84HCbN1fbUQbEwjQp34Ra4wCQYHKoZIzjgEAwQvMC0CFQCnJEpBsQP1DGUl5xaYqxMT3%2F6NbwIUD4YvozNMUcq2dYuMR%2FBnV1K9708%3D",
+                "children": [
+                    {
+                        "id": "50008163",
+                        "parent": "50006457",
+                        "unit": "İnsan Kaynakları ve SEÇ",
+                        "pernr": "",
+                        "fullname": "",
+                        "title": "",
+                        "photo": "",
+                        "data": {
+                            "photo": "",
+                            "pernr": "",
+                            "fullname": "",
+                            "title": "",
+                            "unit": "İnsan Kaynakları ve SEÇ"
+                        }
+                    },
+                    {
+                        "id": "50007955",
+                        "parent": "50006457",
+                        "unit": "İdari İşler",
+                        "pernr": "",
+                        "fullname": "",
+                        "title": "",
+                        "photo": "",
+                        "data": {
+                            "photo": "",
+                            "pernr": "",
+                            "fullname": "",
+                            "title": "",
+                            "unit": "İdari İşler"
+                        }
+                    },
+                    {
+                        "id": "50008171",
+                        "parent": "50006457",
+                        "unit": "Bilgi Teknolojileri ve Validasyonu",
+                        "pernr": "",
+                        "fullname": "",
+                        "title": "",
+                        "photo": "",
+                        "data": {
+                            "photo": "",
+                            "pernr": "",
+                            "fullname": "",
+                            "title": "",
+                            "unit": "Bilgi Teknolojileri ve Validasyonu"
+                        }
+                    }
+                ],
+                "data": {
+                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE08DA92FFB0B3F9372&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUBDM6A84HCbN1fbUQbEwjQp34Ra4wCQYHKoZIzjgEAwQvMC0CFQCnJEpBsQP1DGUl5xaYqxMT3%2F6NbwIUD4YvozNMUcq2dYuMR%2FBnV1K9708%3D",
+                    "pernr": "10110220",
+                    "fullname": "NEVZAT TOLGA USLU",
+                    "title": "İnsan Kaynak. ve Bilgi Tekno. Direktörü",
+                    "unit": "İnsan Kaynakları ve Bilgi Teknolojileri"
+                }
+            },
+            {
+                "id": "50006471",
+                "parent": "50006455",
+                "unit": "Mali İşler",
+                "pernr": "10110723",
+                "fullname": "HATİCE SUNAR",
+                "title": "Mali İşler Grup Başkanı",
+                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEEB8BE9848E6C8B354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUWnGISi23INWBUbK5mz2V5HW76sEwCQYHKoZIzjgEAwQwMC4CFQCgL%2BXs95EraNkytpB5kCy0a3vL8gIVALwXUkRmL7jjmEu%2BJeSgeDt901EZ",
+                "children": [
+                    {
+                        "id": "50007531",
+                        "parent": "50006471",
+                        "unit": "Bütçe Raporlama",
+                        "pernr": "",
+                        "fullname": "",
+                        "title": "",
+                        "photo": "",
+                        "data": {
+                            "photo": "",
+                            "pernr": "",
+                            "fullname": "",
+                            "title": "",
+                            "unit": "Bütçe Raporlama"
+                        }
+                    },
+                    {
+                        "id": "50006473",
+                        "parent": "50006471",
+                        "unit": "Muhasebe",
+                        "pernr": "10110304",
+                        "fullname": "ŞEHRİBAN KARTAL",
+                        "title": "Muhasebe Müdürü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEEB8BE9BD7757FD354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUlDhl9hAh1UdxUpaqeSDVx81hFAswCQYHKoZIzjgEAwQuMCwCFFBSnIP4EGVK4vS%2B7uSCYSONvHIyAhRelUyIuBvY%2BV9kgxaUJtv5Y%2FJtNg%3D%3D",
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEEB8BE9BD7757FD354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUlDhl9hAh1UdxUpaqeSDVx81hFAswCQYHKoZIzjgEAwQuMCwCFFBSnIP4EGVK4vS%2B7uSCYSONvHIyAhRelUyIuBvY%2BV9kgxaUJtv5Y%2FJtNg%3D%3D",
+                            "pernr": "10110304",
+                            "fullname": "ŞEHRİBAN KARTAL",
+                            "title": "Muhasebe Müdürü",
+                            "unit": "Muhasebe"
+                        }
+                    },
+                    {
+                        "id": "50006477",
+                        "parent": "50006471",
+                        "unit": "Finans",
+                        "pernr": "10110511",
+                        "fullname": "TUĞBA GÜRPINAR",
+                        "title": "Finans Yöneticisi",
+                        "photo": "",
+                        "data": {
+                            "photo": "",
+                            "pernr": "10110511",
+                            "fullname": "TUĞBA GÜRPINAR",
+                            "title": "Finans Yöneticisi",
+                            "unit": "Finans"
+                        }
+                    }
+                ],
+                "data": {
+                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEEB8BE9848E6C8B354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUWnGISi23INWBUbK5mz2V5HW76sEwCQYHKoZIzjgEAwQwMC4CFQCgL%2BXs95EraNkytpB5kCy0a3vL8gIVALwXUkRmL7jjmEu%2BJeSgeDt901EZ",
+                    "pernr": "10110723",
+                    "fullname": "HATİCE SUNAR",
+                    "title": "Mali İşler Grup Başkanı",
+                    "unit": "Mali İşler"
+                }
+            },
+            {
+                "id": "50006481",
+                "parent": "50006455",
+                "unit": "Türkiye ve Uluslararası Pazarlar",
+                "pernr": "10510318",
+                "fullname": "SABRİ ÖNCEL",
+                "title": "Genel Müdür Yardımcısı (T ve U Pazarlar)",
+                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5C0408C1354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUl6MxA9Ho25Pzb%2BXsHgz6llmkPvMwCQYHKoZIzjgEAwQwMC4CFQD2%2FlbBH0dAy4uHhJ%2BZIexsHykRaAIVAMyuL3xDidBxOYIaTyUUPxO%2FQvm%2B",
+                "children": [
+                    {
+                        "id": "50006718",
+                        "parent": "50006481",
+                        "unit": "Ürün ve Saha Verimlilik",
+                        "pernr": "10510343",
+                        "fullname": "BUĞRA ÖZGÜR DERELİ",
+                        "title": "Ürün ve Saha Verimlilik Müdürü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF96F260215C485355&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUZQJnLGD32AMBJFlTtksAYfJ%2FTrowCQYHKoZIzjgEAwQvMC0CFQD4vVkFBhGD7jo9YAVu5d1o2QfhIwIUXxmh%2BGhlzveq0vHMq%2FqMTYGo6%2Bg%3D",
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF96F260215C485355&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUZQJnLGD32AMBJFlTtksAYfJ%2FTrowCQYHKoZIzjgEAwQvMC0CFQD4vVkFBhGD7jo9YAVu5d1o2QfhIwIUXxmh%2BGhlzveq0vHMq%2FqMTYGo6%2Bg%3D",
+                            "pernr": "10510343",
+                            "fullname": "BUĞRA ÖZGÜR DERELİ",
+                            "title": "Ürün ve Saha Verimlilik Müdürü",
+                            "unit": "Ürün ve Saha Verimlilik"
+                        }
+                    },
+                    {
+                        "id": "50006598",
+                        "parent": "50006481",
+                        "unit": "İş Birimi 1",
+                        "pernr": "10410247",
+                        "fullname": "KADİR ERKAN",
+                        "title": "İş Birimi Direktörü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5C0407E1354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQU0Kx7soZfzGQXtDx1jW2pIoqMKycwCQYHKoZIzjgEAwQwMC4CFQDBvs6HDLj0pC2js0RDHLsXzmDSiAIVAKmKQb3549Ia7dypu%2Bj6V1k%2B%2FAH2",
+                        "children": [
+                            {
+                                "id": "50006603",
+                                "parent": "50006598",
+                                "unit": "Farma Pazarlama",
+                                "pernr": "10510297",
+                                "fullname": "SİNEM TALU",
+                                "title": "Pazarlama Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5C040913354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQU8TEzstAAH9ftfpUTerIeQ61h7NAwCQYHKoZIzjgEAwQuMCwCFHL6rjX0Gg1xxGl67uQiFQyt0HJoAhR1EGNjr20IlndwSyU5j%2BbFfR2hCw%3D%3D",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5C040913354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQU8TEzstAAH9ftfpUTerIeQ61h7NAwCQYHKoZIzjgEAwQuMCwCFHL6rjX0Gg1xxGl67uQiFQyt0HJoAhR1EGNjr20IlndwSyU5j%2BbFfR2hCw%3D%3D",
+                                    "pernr": "10510297",
+                                    "fullname": "SİNEM TALU",
+                                    "title": "Pazarlama Müdürü",
+                                    "unit": "Farma Pazarlama"
+                                }
+                            },
+                            {
+                                "id": "50006604",
+                                "parent": "50006598",
+                                "unit": "Farma Satış",
+                                "pernr": "10510002",
+                                "fullname": "HÜSEYİN ÖZDEMİR",
+                                "title": "Tanıtım Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E51D22BFF354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUlnVEPt3qqQdP%2BLeYuxV%2BaIY1vSMwCQYHKoZIzjgEAwQvMC0CFQClovYUkzNgGAw1P4ZNLRGlTKdwOQIUbkljpUWICgi996mZAoyDtRH25fw%3D",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E51D22BFF354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUlnVEPt3qqQdP%2BLeYuxV%2BaIY1vSMwCQYHKoZIzjgEAwQvMC0CFQClovYUkzNgGAw1P4ZNLRGlTKdwOQIUbkljpUWICgi996mZAoyDtRH25fw%3D",
+                                    "pernr": "10510002",
+                                    "fullname": "HÜSEYİN ÖZDEMİR",
+                                    "title": "Tanıtım Müdürü",
+                                    "unit": "Farma Satış"
+                                }
+                            },
+                            {
+                                "id": "50006602",
+                                "parent": "50006598",
+                                "unit": "Nefroloji-Diyaliz",
+                                "pernr": "10110126",
+                                "fullname": "İSMAİL ELMAS",
+                                "title": "İş Birimi Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A622FD34475354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUXc6c%2BszoIa5fQGLd723n%2BXGAXMAwCQYHKoZIzjgEAwQvMC0CFQDYp0m7LHai99bhJvnNjx4QX1uKcgIUSVOtuJYrMTTPxJH3%2FNSpyf6Hesg%3D",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A622FD34475354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUXc6c%2BszoIa5fQGLd723n%2BXGAXMAwCQYHKoZIzjgEAwQvMC0CFQDYp0m7LHai99bhJvnNjx4QX1uKcgIUSVOtuJYrMTTPxJH3%2FNSpyf6Hesg%3D",
+                                    "pernr": "10110126",
+                                    "fullname": "İSMAİL ELMAS",
+                                    "title": "İş Birimi Müdürü",
+                                    "unit": "Nefroloji-Diyaliz"
+                                }
+                            }
+                        ],
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5C0407E1354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQU0Kx7soZfzGQXtDx1jW2pIoqMKycwCQYHKoZIzjgEAwQwMC4CFQDBvs6HDLj0pC2js0RDHLsXzmDSiAIVAKmKQb3549Ia7dypu%2Bj6V1k%2B%2FAH2",
+                            "pernr": "10410247",
+                            "fullname": "KADİR ERKAN",
+                            "title": "İş Birimi Direktörü",
+                            "unit": "İş Birimi 1"
+                        }
+                    },
+                    {
+                        "id": "50006647",
+                        "parent": "50006481",
+                        "unit": "İş Birimi 2",
+                        "pernr": "10510019",
+                        "fullname": "SİBEL ÇAKIR",
+                        "title": "İş Birimi Direktörü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5EEBE813354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUGZlzrPLQlPlg%2BeCKD8lZBQqwi6YwCQYHKoZIzjgEAwQuMCwCFAxXjL%2FgrAtdTwpDn2TQrSGaC4qDAhQ3bc4h8VG1QsUDQR%2F87V91eFu8WA%3D%3D",
+                        "children": [
+                            {
+                                "id": "50006649",
+                                "parent": "50006647",
+                                "unit": "Pazarlama",
+                                "pernr": "10110106",
+                                "fullname": "FUNDA KÖSE",
+                                "title": "Pazarlama Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE09CD29CEEF4109375&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUK5dJOUWIn1NTwJxIG4gmecCAltAwCQYHKoZIzjgEAwQwMC4CFQC55T0DFS3yiiV%2FCfMf6VXlz1MuaQIVALQXpVYjNyrXA8dTjHczYR3ctBPS",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE09CD29CEEF4109375&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUK5dJOUWIn1NTwJxIG4gmecCAltAwCQYHKoZIzjgEAwQwMC4CFQC55T0DFS3yiiV%2FCfMf6VXlz1MuaQIVALQXpVYjNyrXA8dTjHczYR3ctBPS",
+                                    "pernr": "10110106",
+                                    "fullname": "FUNDA KÖSE",
+                                    "title": "Pazarlama Müdürü",
+                                    "unit": "Pazarlama"
+                                }
+                            },
+                            {
+                                "id": "50006650",
+                                "parent": "50006647",
+                                "unit": "Satış",
+                                "pernr": "10610301",
+                                "fullname": "MEHMET ALABAŞ",
+                                "title": "Tanıtım Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A6216F573DF354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUNAAlNWaXz4MgkKXQ2hAS2RzXJ2wwCQYHKoZIzjgEAwQuMCwCFFLb6XRIlT9D4f4hJG2QIYSa1jInAhRUoDga99oSeZgte8ucweTNm7M0uQ%3D%3D",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A6216F573DF354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUNAAlNWaXz4MgkKXQ2hAS2RzXJ2wwCQYHKoZIzjgEAwQuMCwCFFLb6XRIlT9D4f4hJG2QIYSa1jInAhRUoDga99oSeZgte8ucweTNm7M0uQ%3D%3D",
+                                    "pernr": "10610301",
+                                    "fullname": "MEHMET ALABAŞ",
+                                    "title": "Tanıtım Müdürü",
+                                    "unit": "Satış"
+                                }
+                            }
+                        ],
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5EEBE813354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUGZlzrPLQlPlg%2BeCKD8lZBQqwi6YwCQYHKoZIzjgEAwQuMCwCFAxXjL%2FgrAtdTwpDn2TQrSGaC4qDAhQ3bc4h8VG1QsUDQR%2F87V91eFu8WA%3D%3D",
+                            "pernr": "10510019",
+                            "fullname": "SİBEL ÇAKIR",
+                            "title": "İş Birimi Direktörü",
+                            "unit": "İş Birimi 2"
+                        }
+                    },
+                    {
+                        "id": "50006683",
+                        "parent": "50006481",
+                        "unit": "Ticari İlişkiler",
+                        "pernr": "10510323",
+                        "fullname": "RUDİ SARFATİ",
+                        "title": "Ticari İlişkiler Direktörü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5EEBE7D9354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUds0DT%2FuP1za6Ssz1uEUxjRzg2DswCQYHKoZIzjgEAwQvMC0CFHkJxLALjrZfu0NnI9NfjOn0CPH5AhUA1oR0Q7GrQRBKpnPreg5dPI2MigM%3D",
+                        "children": [
+                            {
+                                "id": "50007432",
+                                "parent": "50006683",
+                                "unit": "Satış İdaresi ve İhale",
+                                "pernr": "10110330",
+                                "fullname": "HATİCE USTA",
+                                "title": "Satış İdaresi ve İhale Yöneticisi",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "10110330",
+                                    "fullname": "HATİCE USTA",
+                                    "title": "Satış İdaresi ve İhale Yöneticisi",
+                                    "unit": "Satış İdaresi ve İhale"
+                                }
+                            },
+                            {
+                                "id": "50006686",
+                                "parent": "50006683",
+                                "unit": "Bölge Ticaret",
+                                "pernr": "",
+                                "fullname": "",
+                                "title": "",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "",
+                                    "fullname": "",
+                                    "title": "",
+                                    "unit": "Bölge Ticaret"
+                                }
+                            }
+                        ],
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5EEBE7D9354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUds0DT%2FuP1za6Ssz1uEUxjRzg2DswCQYHKoZIzjgEAwQvMC0CFHkJxLALjrZfu0NnI9NfjOn0CPH5AhUA1oR0Q7GrQRBKpnPreg5dPI2MigM%3D",
+                            "pernr": "10510323",
+                            "fullname": "RUDİ SARFATİ",
+                            "title": "Ticari İlişkiler Direktörü",
+                            "unit": "Ticari İlişkiler"
+                        }
+                    },
+                    {
+                        "id": "50006690",
+                        "parent": "50006481",
+                        "unit": "Medikal ve İş Mükemmelliği",
+                        "pernr": "10510014",
+                        "fullname": "EYLEM AKSOY",
+                        "title": "Medikal ve İş Mükemmelliği Direktörü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E4F6FD0A3354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUyWioQCUGjXWBGJHLh5a09yDHXn8wCQYHKoZIzjgEAwQuMCwCFGfFrQ8AX%2BNpEfvs2EQxHuvb7211AhQEEFo91XJU11cyxeYHDMhCJGF25g%3D%3D",
+                        "children": [
+                            {
+                                "id": "50006692",
+                                "parent": "50006690",
+                                "unit": "Medikal",
+                                "pernr": "",
+                                "fullname": "",
+                                "title": "",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "",
+                                    "fullname": "",
+                                    "title": "",
+                                    "unit": "Medikal"
+                                }
+                            },
+                            {
+                                "id": "50007290",
+                                "parent": "50006690",
+                                "unit": "Pazarlama Destek",
+                                "pernr": "",
+                                "fullname": "",
+                                "title": "",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "",
+                                    "fullname": "",
+                                    "title": "",
+                                    "unit": "Pazarlama Destek"
+                                }
+                            },
+                            {
+                                "id": "50006694",
+                                "parent": "50006690",
+                                "unit": "Ruhsatlandırma ve Resmi İşler",
+                                "pernr": "",
+                                "fullname": "",
+                                "title": "",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "",
+                                    "fullname": "",
+                                    "title": "",
+                                    "unit": "Ruhsatlandırma ve Resmi İşler"
+                                }
+                            }
+                        ],
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E4F6FD0A3354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUyWioQCUGjXWBGJHLh5a09yDHXn8wCQYHKoZIzjgEAwQuMCwCFGfFrQ8AX%2BNpEfvs2EQxHuvb7211AhQEEFo91XJU11cyxeYHDMhCJGF25g%3D%3D",
+                            "pernr": "10510014",
+                            "fullname": "EYLEM AKSOY",
+                            "title": "Medikal ve İş Mükemmelliği Direktörü",
+                            "unit": "Medikal ve İş Mükemmelliği"
+                        }
+                    },
+                    {
+                        "id": "50006708",
+                        "parent": "50006481",
+                        "unit": "Uluslararası Pazarlar, Söz. Ür. ve Teşv.",
+                        "pernr": "10110741",
+                        "fullname": "ZEYNEP MÖREL KIYMAZ",
+                        "title": "Uluslararası Pazarlar Direktörü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E66EE5245354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUmakq3nnrIy7qNO%2BbbvlZP1sGL7YwCQYHKoZIzjgEAwQvMC0CFQCBWsMta0ko6QEnIlksK%2B2PGo5GqwIUGYNOHa3qroScIdUxUR%2BLKFL6P54%3D",
+                        "children": [
+                            {
+                                "id": "50006756",
+                                "parent": "50006708",
+                                "unit": "Uluslararası Pazarlar ve Söz. Üretim",
+                                "pernr": "10110702",
+                                "fullname": "ASLI YAREN AKAR",
+                                "title": "Uluslararası Pazarlar Yöneticisi",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "10110702",
+                                    "fullname": "ASLI YAREN AKAR",
+                                    "title": "Uluslararası Pazarlar Yöneticisi",
+                                    "unit": "Uluslararası Pazarlar ve Söz. Üretim"
+                                }
+                            },
+                            {
+                                "id": "50006710",
+                                "parent": "50006708",
+                                "unit": "Uluslararası Pazarlar ve Teşvik Uyg.",
+                                "pernr": "10110572",
+                                "fullname": "ATAKAN GAYRET",
+                                "title": "Uluslararası Pazarlar Yöneticisi",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "10110572",
+                                    "fullname": "ATAKAN GAYRET",
+                                    "title": "Uluslararası Pazarlar Yöneticisi",
+                                    "unit": "Uluslararası Pazarlar ve Teşvik Uyg."
+                                }
+                            }
+                        ],
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E66EE5245354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUmakq3nnrIy7qNO%2BbbvlZP1sGL7YwCQYHKoZIzjgEAwQvMC0CFQCBWsMta0ko6QEnIlksK%2B2PGo5GqwIUGYNOHa3qroScIdUxUR%2BLKFL6P54%3D",
+                            "pernr": "10110741",
+                            "fullname": "ZEYNEP MÖREL KIYMAZ",
+                            "title": "Uluslararası Pazarlar Direktörü",
+                            "unit": "Uluslararası Pazarlar, Söz. Ür. ve Teşv."
+                        }
+                    },
+                    {
+                        "id": "50006713",
+                        "parent": "50006481",
+                        "unit": "İş Geliştirme, Kurumsal İletiş. ve Marka",
+                        "pernr": "10110288",
+                        "fullname": "TUĞÇE KARPUZCU ELMAS",
+                        "title": "İş Geliştirme ve Kurum. İlet. Direktörü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E66EE51ED354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUd7V5KcEgBjEsgAQzHOBWDrRWqTcwCQYHKoZIzjgEAwQwMC4CFQDiLCX3t7NVZnL%2BxpCHbgsXjhmxiAIVAKiyzgtcbap06O35ahmdGGbnHUm2",
+                        "children": [
+                            {
+                                "id": "50006715",
+                                "parent": "50006713",
+                                "unit": "İş Geliştirme",
+                                "pernr": "10510338",
+                                "fullname": "OKTAY EVCİ",
+                                "title": "İş Geliştirme Yöneticisi",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "10510338",
+                                    "fullname": "OKTAY EVCİ",
+                                    "title": "İş Geliştirme Yöneticisi",
+                                    "unit": "İş Geliştirme"
+                                }
+                            },
+                            {
+                                "id": "50006716",
+                                "parent": "50006713",
+                                "unit": "Kurumsal İletişim ve Marka",
+                                "pernr": "",
+                                "fullname": "",
+                                "title": "",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "",
+                                    "fullname": "",
+                                    "title": "",
+                                    "unit": "Kurumsal İletişim ve Marka"
+                                }
+                            }
+                        ],
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E66EE51ED354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUd7V5KcEgBjEsgAQzHOBWDrRWqTcwCQYHKoZIzjgEAwQwMC4CFQDiLCX3t7NVZnL%2BxpCHbgsXjhmxiAIVAKiyzgtcbap06O35ahmdGGbnHUm2",
+                            "pernr": "10110288",
+                            "fullname": "TUĞÇE KARPUZCU ELMAS",
+                            "title": "İş Geliştirme ve Kurum. İlet. Direktörü",
+                            "unit": "İş Geliştirme, Kurumsal İletiş. ve Marka"
+                        }
+                    }
+                ],
+                "data": {
+                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E5C0408C1354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUl6MxA9Ho25Pzb%2BXsHgz6llmkPvMwCQYHKoZIzjgEAwQwMC4CFQD2%2FlbBH0dAy4uHhJ%2BZIexsHykRaAIVAMyuL3xDidBxOYIaTyUUPxO%2FQvm%2B",
+                    "pernr": "10510318",
+                    "fullname": "SABRİ ÖNCEL",
+                    "title": "Genel Müdür Yardımcısı (T ve U Pazarlar)",
+                    "unit": "Türkiye ve Uluslararası Pazarlar"
+                }
+            },
+            {
+                "id": "50006482",
+                "parent": "50006455",
+                "unit": "Tedarik Zinciri ve Ar-Ge",
+                "pernr": "10910021",
+                "fullname": "MUSTAFA ARISOY",
+                "title": "Tedarik Zinciri ve Ar-Ge Grup Başkanı",
+                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84B6686BF8111354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUsb33OWinDN2QFayiZUpJdi0GKOowCQYHKoZIzjgEAwQuMCwCFDJwYIkP35VeG89CMpuePHLcA4raAhQFPBvHZ4OgI1GKDshmWHKl6ilnNQ%3D%3D",
+                "children": [
+                    {
+                        "id": "50007693",
+                        "parent": "50006482",
+                        "unit": "Fabrika",
+                        "pernr": "",
+                        "fullname": "",
+                        "title": "",
+                        "photo": "",
+                        "children": [
+                            {
+                                "id": "50006505",
+                                "parent": "50007693",
+                                "unit": "Üretim",
+                                "pernr": "10210584",
+                                "fullname": "YASİN SERİN",
+                                "title": "Üretim Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A2EBEC186E9354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUMsEJZJ2w2Mmj5ka6eIkZ9XOK0bcwCQYHKoZIzjgEAwQvMC0CFHeQqJZx4FrTH2gI69QuOQ%2BqwRmmAhUA7VDwrZ8ax16yzaPobvZVGegxKlk%3D",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A2EBEC186E9354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUMsEJZJ2w2Mmj5ka6eIkZ9XOK0bcwCQYHKoZIzjgEAwQvMC0CFHeQqJZx4FrTH2gI69QuOQ%2BqwRmmAhUA7VDwrZ8ax16yzaPobvZVGegxKlk%3D",
+                                    "pernr": "10210584",
+                                    "fullname": "YASİN SERİN",
+                                    "title": "Üretim Müdürü",
+                                    "unit": "Üretim"
+                                }
+                            },
+                            {
+                                "id": "50006530",
+                                "parent": "50007693",
+                                "unit": "Teknik Bölüm",
+                                "pernr": "10210191",
+                                "fullname": "YAVUZ SELİM AĞIRTOPÇU",
+                                "title": "Teknik Bölüm Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A2ECAEB4947354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQU14ODtSfuSrFGf6SSsDfLqHUMPFEwCQYHKoZIzjgEAwQwMC4CFQDnFSL%2F3shjUF3Vq0nPOEmuS4y60AIVAOQIMx7pgSmtNbvRyuKJQ%2Bg5gJ4l",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A2ECAEB4947354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQU14ODtSfuSrFGf6SSsDfLqHUMPFEwCQYHKoZIzjgEAwQwMC4CFQDnFSL%2F3shjUF3Vq0nPOEmuS4y60AIVAOQIMx7pgSmtNbvRyuKJQ%2Bg5gJ4l",
+                                    "pernr": "10210191",
+                                    "fullname": "YAVUZ SELİM AĞIRTOPÇU",
+                                    "title": "Teknik Bölüm Müdürü",
+                                    "unit": "Teknik Bölüm"
+                                }
+                            },
+                            {
+                                "id": "50006510",
+                                "parent": "50007693",
+                                "unit": "Depo ve Sevkiyat",
+                                "pernr": "10210055",
+                                "fullname": "MUSTAFA KIRAT",
+                                "title": "Depo Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A30649E0B81354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUSm2rcSzKWIAjI5LAt2Jt4Ydw3CIwCQYHKoZIzjgEAwQvMC0CFBVrm5stn8KRNK%2BP%2B%2FJ7X1pcqXO1AhUAnhZ7GcZ7X8pmgD5YDssfyXUfFhY%3D",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A30649E0B81354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUSm2rcSzKWIAjI5LAt2Jt4Ydw3CIwCQYHKoZIzjgEAwQvMC0CFBVrm5stn8KRNK%2BP%2B%2FJ7X1pcqXO1AhUAnhZ7GcZ7X8pmgD5YDssfyXUfFhY%3D",
+                                    "pernr": "10210055",
+                                    "fullname": "MUSTAFA KIRAT",
+                                    "title": "Depo Müdürü",
+                                    "unit": "Depo ve Sevkiyat"
+                                }
+                            }
+                        ],
+                        "data": {
+                            "photo": "",
+                            "pernr": "",
+                            "fullname": "",
+                            "title": "",
+                            "unit": "Fabrika"
+                        }
+                    },
+                    {
+                        "id": "50006483",
+                        "parent": "50006482",
+                        "unit": "Satın Alma ve Üretim Planlama",
+                        "pernr": "10110041",
+                        "fullname": "NUR MİRAY AKBATUR EFE",
+                        "title": "Satın Alma ve Üretim Planlama Direktörü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEEB8BECC403F285354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUH16aV%2BKkpynfnMF75grU0vQ28hQwCQYHKoZIzjgEAwQvMC0CFQCueNqSHU0xIIan%2FI%2BmaZzaJ%2B3tbwIUJlWxoJ2liPeTIHFofRJLSqJXcoE%3D",
+                        "children": [
+                            {
+                                "id": "50006486",
+                                "parent": "50006483",
+                                "unit": "Satın Alma",
+                                "pernr": "10110275",
+                                "fullname": "NESLİHAN GAMZE ÖZTÜRK",
+                                "title": "Satın Alma Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE08DA94536725B7372&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUkiGAFJ61DJBfijXnA%2FCoZunmzuYwCQYHKoZIzjgEAwQwMC4CFQDm7ZGSZgUl1mbopkBT7HVZqfxgZwIVAI%2BkFZ7uWETiYfCRDFoMVvdtRZDk",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE08DA94536725B7372&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH5BgkqhkiG9w0BBwKggeswgegCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGByDCBxQIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUkiGAFJ61DJBfijXnA%2FCoZunmzuYwCQYHKoZIzjgEAwQwMC4CFQDm7ZGSZgUl1mbopkBT7HVZqfxgZwIVAI%2BkFZ7uWETiYfCRDFoMVvdtRZDk",
+                                    "pernr": "10110275",
+                                    "fullname": "NESLİHAN GAMZE ÖZTÜRK",
+                                    "title": "Satın Alma Müdürü",
+                                    "unit": "Satın Alma"
+                                }
+                            },
+                            {
+                                "id": "50006490",
+                                "parent": "50006483",
+                                "unit": "Üretim Planlama",
+                                "pernr": "10110532",
+                                "fullname": "SİNEM YURTSEVER",
+                                "title": "Üretim Planlama Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEEB8BE9A954B581354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUfhyIwyLX%2BfwmETmhry%2BvT2GFQTwwCQYHKoZIzjgEAwQuMCwCFCsBJ3r5UTgoOZXmtiU8BqYqNMwrAhQ8w7YHi9w4ipey%2FBj%2FPaT%2Bdlkjxw%3D%3D",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEEB8BE9A954B581354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUfhyIwyLX%2BfwmETmhry%2BvT2GFQTwwCQYHKoZIzjgEAwQuMCwCFCsBJ3r5UTgoOZXmtiU8BqYqNMwrAhQ8w7YHi9w4ipey%2FBj%2FPaT%2Bdlkjxw%3D%3D",
+                                    "pernr": "10110532",
+                                    "fullname": "SİNEM YURTSEVER",
+                                    "title": "Üretim Planlama Müdürü",
+                                    "unit": "Üretim Planlama"
+                                }
+                            }
+                        ],
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEEB8BECC403F285354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUH16aV%2BKkpynfnMF75grU0vQ28hQwCQYHKoZIzjgEAwQvMC0CFQCueNqSHU0xIIan%2FI%2BmaZzaJ%2B3tbwIUJlWxoJ2liPeTIHFofRJLSqJXcoE%3D",
+                            "pernr": "10110041",
+                            "fullname": "NUR MİRAY AKBATUR EFE",
+                            "title": "Satın Alma ve Üretim Planlama Direktörü",
+                            "unit": "Satın Alma ve Üretim Planlama"
+                        }
+                    },
+                    {
+                        "id": "50006493",
+                        "parent": "50006482",
+                        "unit": "Araştırma-Geliştirme",
+                        "pernr": "10910054",
+                        "fullname": "DİDEHAN KESGİN",
+                        "title": "Ar-Ge Direktörü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE09BA2518854587375&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUnYOcZ19HFpVZdxPgDp05GN%2B0rxAwCQYHKoZIzjgEAwQvMC0CFQDz0LyLj0tvUYguk0fap0L8sNlvQQIUV2jVuILJwg3R4GJ6HurxFY2Zav4%3D",
+                        "children": [
+                            {
+                                "id": "50006495",
+                                "parent": "50006493",
+                                "unit": "Ar-Ge Analitik Geliştirme",
+                                "pernr": "10910012",
+                                "fullname": "YASEMİN EKİN DOLAKSIZ",
+                                "title": "Ar-Ge Analitik Geliştirme Müdürü",
+                                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84B6686BF8153354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUAT8vRVsuE2Trcu5NMdyBqFeGk8gwCQYHKoZIzjgEAwQvMC0CFEOHtQTolqSsv35McfRPRpf%2B8UngAhUAwxdmPRZySCPM8NwYZQ9pTJhVhuU%3D",
+                                "data": {
+                                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84B6686BF8153354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUAT8vRVsuE2Trcu5NMdyBqFeGk8gwCQYHKoZIzjgEAwQvMC0CFEOHtQTolqSsv35McfRPRpf%2B8UngAhUAwxdmPRZySCPM8NwYZQ9pTJhVhuU%3D",
+                                    "pernr": "10910012",
+                                    "fullname": "YASEMİN EKİN DOLAKSIZ",
+                                    "title": "Ar-Ge Analitik Geliştirme Müdürü",
+                                    "unit": "Ar-Ge Analitik Geliştirme"
+                                }
+                            },
+                            {
+                                "id": "50007990",
+                                "parent": "50006493",
+                                "unit": "Ar-Ge Farmasötik Geliştirme",
+                                "pernr": "",
+                                "fullname": "",
+                                "title": "",
+                                "photo": "",
+                                "data": {
+                                    "photo": "",
+                                    "pernr": "",
+                                    "fullname": "",
+                                    "title": "",
+                                    "unit": "Ar-Ge Farmasötik Geliştirme"
+                                }
+                            }
+                        ],
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE09BA2518854587375&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUnYOcZ19HFpVZdxPgDp05GN%2B0rxAwCQYHKoZIzjgEAwQvMC0CFQDz0LyLj0tvUYguk0fap0L8sNlvQQIUV2jVuILJwg3R4GJ6HurxFY2Zav4%3D",
+                            "pernr": "10910054",
+                            "fullname": "DİDEHAN KESGİN",
+                            "title": "Ar-Ge Direktörü",
+                            "unit": "Araştırma-Geliştirme"
+                        }
+                    }
+                ],
+                "data": {
+                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84B6686BF8111354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUsb33OWinDN2QFayiZUpJdi0GKOowCQYHKoZIzjgEAwQuMCwCFDJwYIkP35VeG89CMpuePHLcA4raAhQFPBvHZ4OgI1GKDshmWHKl6ilnNQ%3D%3D",
+                    "pernr": "10910021",
+                    "fullname": "MUSTAFA ARISOY",
+                    "title": "Tedarik Zinciri ve Ar-Ge Grup Başkanı",
+                    "unit": "Tedarik Zinciri ve Ar-Ge"
+                }
+            },
+            {
+                "id": "50006551",
+                "parent": "50006455",
+                "unit": "Kalite ve Mesul Müdürlük",
+                "pernr": "10210662",
+                "fullname": "SEMRA EVİRGEN",
+                "title": "Kalite Direktörü",
+                "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A2F9A61C5F9354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQU6cYzjch5tOILFR5SNWCnozfGmVkwCQYHKoZIzjgEAwQvMC0CFQDi4rvA%2F0Ikd0Kw1TGA0nDUBBR4awIULO%2BjtVnpehBxlEt51o3vr9a4low%3D",
+                "children": [
+                    {
+                        "id": "50006554",
+                        "parent": "50006551",
+                        "unit": "Kalite Güvence",
+                        "pernr": "10210255",
+                        "fullname": "BAHAR BOZKURT ATAOĞLU",
+                        "title": "Kalite Güvence Müdürü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A2F58C2AE0F354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUQfUe76tD38MUtAPUCRarRIn%2BtQ0wCQYHKoZIzjgEAwQuMCwCFHB3qjcNGi1wmF7qYLL9r3E8qw%2F2AhRbFZTG%2FDFD8%2FIVe8v7HbbI5pJ6QA%3D%3D",
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A2F58C2AE0F354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH3BgkqhkiG9w0BBwKggekwgeYCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxjCBwwIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUQfUe76tD38MUtAPUCRarRIn%2BtQ0wCQYHKoZIzjgEAwQuMCwCFHB3qjcNGi1wmF7qYLL9r3E8qw%2F2AhRbFZTG%2FDFD8%2FIVe8v7HbbI5pJ6QA%3D%3D",
+                            "pernr": "10210255",
+                            "fullname": "BAHAR BOZKURT ATAOĞLU",
+                            "title": "Kalite Güvence Müdürü",
+                            "unit": "Kalite Güvence"
+                        }
+                    },
+                    {
+                        "id": "50007489",
+                        "parent": "50006551",
+                        "unit": "Mesul Müdürlük",
+                        "pernr": "10210724",
+                        "fullname": "AYNUR TEKİN YÜCE",
+                        "title": "Mesul Müdür",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE096F75E37D8841375&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUFTjxIFsdl%2BVDPYpUCxDDY%2F2hYZEwCQYHKoZIzjgEAwQvMC0CFQDcTw7pP8%2BPqN%2BXRKgYD1NVYnzeFQIUO%2BA%2FhjP7JvqkTksblE7JYqhnt0Y%3D",
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131FE096F75E37D8841375&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUFTjxIFsdl%2BVDPYpUCxDDY%2F2hYZEwCQYHKoZIzjgEAwQvMC0CFQDcTw7pP8%2BPqN%2BXRKgYD1NVYnzeFQIUO%2BA%2FhjP7JvqkTksblE7JYqhnt0Y%3D",
+                            "pernr": "10210724",
+                            "fullname": "AYNUR TEKİN YÜCE",
+                            "title": "Mesul Müdür",
+                            "unit": "Mesul Müdürlük"
+                        }
+                    },
+                    {
+                        "id": "50006569",
+                        "parent": "50006551",
+                        "unit": "Kalite Kontrol",
+                        "pernr": "10210221",
+                        "fullname": "PELİN ÇITLAK",
+                        "title": "Kalite Kontrol Müdürü",
+                        "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A301018BA73354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUDm0wbkP1C%2F45JMWUKQpl7kqc0H0wCQYHKoZIzjgEAwQvMC0CFQCAdfq0ESzccRFycb7tYqBp1V8E6gIUdkEjd7hUx3TTt54xtl3g%2FeLBOQ8%3D",
+                        "data": {
+                            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A301018BA73354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUDm0wbkP1C%2F45JMWUKQpl7kqc0H0wCQYHKoZIzjgEAwQvMC0CFQCAdfq0ESzccRFycb7tYqBp1V8E6gIUdkEjd7hUx3TTt54xtl3g%2FeLBOQ8%3D",
+                            "pernr": "10210221",
+                            "fullname": "PELİN ÇITLAK",
+                            "title": "Kalite Kontrol Müdürü",
+                            "unit": "Kalite Kontrol"
+                        }
+                    },
+                    {
+                        "id": "50006575",
+                        "parent": "50006551",
+                        "unit": "Mikrobiyoloji",
+                        "pernr": "10210347",
+                        "fullname": "İREM USLU",
+                        "title": "Mikrobiyoloji Yöneticisi",
+                        "photo": "",
+                        "data": {
+                            "photo": "",
+                            "pernr": "10210347",
+                            "fullname": "İREM USLU",
+                            "title": "Mikrobiyoloji Yöneticisi",
+                            "unit": "Mikrobiyoloji"
+                        }
+                    }
+                ],
+                "data": {
+                    "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A2F9A61C5F9354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQU6cYzjch5tOILFR5SNWCnozfGmVkwCQYHKoZIzjgEAwQvMC0CFQDi4rvA%2F0Ikd0Kw1TGA0nDUBBR4awIULO%2BjtVnpehBxlEt51o3vr9a4low%3D",
+                    "pernr": "10210662",
+                    "fullname": "SEMRA EVİRGEN",
+                    "title": "Kalite Direktörü",
+                    "unit": "Kalite ve Mesul Müdürlük"
+                }
+            }
+        ],
+        "data": {
+            "photo": "/sap/bc/contentserver/100?get&pVersion=0046&contRep=ZH&docId=005056A9A1131EEF84A4E4F6FD099354&compId=data&accessMode=r&authId=CN%3DDEP&expiration=20251003111414&secKey=MIH4BgkqhkiG9w0BBwKggeowgecCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGBxzCBxAIBATAZMA4xDDAKBgNVBAMTA0RFUAIHIAkJExMiFjAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjUxMDAzMDkxNDE0WjAjBgkqhkiG9w0BCQQxFgQUmpS%2B9GMPSsqGnseVhLblzS7T3tgwCQYHKoZIzjgEAwQvMC0CFDn1JJ9aGpMqw07P9d1KAl9nARvxAhUAsUYiBKB3UsTQU5dzpWJyFvGAI%2Fw%3D",
+            "pernr": "10510046",
+            "fullname": "ERSAN KÜÇÜK",
+            "title": "Genel Müdür",
+            "unit": "Genel Müdürlük"
+        }
+    }
+]
